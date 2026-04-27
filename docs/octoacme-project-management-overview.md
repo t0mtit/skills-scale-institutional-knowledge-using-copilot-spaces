@@ -14,11 +14,22 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM):** defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** implement features, collaborate on design and testability.
+- **QA/Testing (QA Lead):** validate quality and acceptance criteria; own the test strategy.
+- **Scrum Master:** facilitates agile ceremonies, removes impediments, coaches the team.
+- **UX/UI Designer:** owns usability, accessibility, and visual design of deliverables.
+- **Subject Matter Expert (SME):** provides domain knowledge; validates requirements and test scenarios.
+- **DevOps Engineer:** manages CI/CD pipelines, infrastructure, and deployment automation.
+- **Support Lead:** owns customer-facing support readiness and escalation management.
+- **Release Manager:** owns the end-to-end release process and go/no-go decisions.
+- **Data Analyst:** defines and measures success metrics; provides data-driven insights.
+- **Stakeholders:** provide inputs and approvals.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for detailed responsibilities and interaction patterns.  
+See [RACI Matrix](./role-responsibility-matrix.md) for accountability mapping across common project activities.  
+See [Templates](./templates/) for the [Onboarding Checklist](./templates/role-onboarding-checklist.md) and [Acceptance Criteria Template](./templates/acceptance-criteria-template.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
